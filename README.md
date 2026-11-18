@@ -64,3 +64,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+Kolli Satwik 
+Aspiring Software Engineer | Python & Godot Developer
+Targeting big tech companies with strong coding skills and open-source projects!
+
